@@ -77,7 +77,6 @@
             this.txtFilePath.Name = "txtFilePath";
             this.txtFilePath.Size = new System.Drawing.Size(425, 26);
             this.txtFilePath.TabIndex = 3;
-            this.txtFilePath.Text = "C:\\Users\\Administrator\\Downloads\\test\\";
             // 
             // txtPassword
             // 
@@ -86,7 +85,6 @@
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.Size = new System.Drawing.Size(425, 26);
             this.txtPassword.TabIndex = 4;
-            this.txtPassword.Text = "Haslo123";
             // 
             // btnBrowseFile
             // 
